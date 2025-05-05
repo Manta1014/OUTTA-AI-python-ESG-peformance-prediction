@@ -6,7 +6,7 @@ This project aims to **predict ESG (Environmental, Social, Governance) grades of
 
 ## 📁 Project Structure
 
-"""
+```
 ESG-Score-Prediction/
 ├── #1_esg_table_scraper_43조.ipynb             # Web scraping ESG tables (2020–2023)
 ├── #2_data_preprocessing_visualization_43조.ipynb  # Data cleaning and visualization
@@ -15,7 +15,7 @@ ESG-Score-Prediction/
 ├── esg_after_preprocessing.csv                 # Cleaned data for modeling
 ├── esg_merge.csv                               # Merged data across all years
 └── README.md                                   # You are here
-"""
+```
 
 ---
 
