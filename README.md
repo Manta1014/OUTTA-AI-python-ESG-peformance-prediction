@@ -8,9 +8,9 @@ This project aims to **predict ESG (Environmental, Social, Governance) grades of
 
 ```
 ESG-Score-Prediction/
-├── #1_esg_table_scraper_43조.ipynb             # Web scraping ESG tables (2020–2023)
-├── #2_data_preprocessing_visualization_43조.ipynb  # Data cleaning and visualization
-├── #3_ML_43조.ipynb                             # ML classification model and evaluation
+├── #1_esg_table_scraper.ipynb             # Web scraping ESG tables (2020–2023)
+├── #2_data_preprocessing_visualization.ipynb  # Data cleaning and visualization
+├── #3_ML.ipynb                             # ML classification model and evaluation
 ├── esg_2020.csv ~ esg_2023.csv                 # Raw yearly ESG data
 ├── esg_after_preprocessing.csv                 # Cleaned data for modeling
 ├── esg_merge.csv                               # Merged data across all years
