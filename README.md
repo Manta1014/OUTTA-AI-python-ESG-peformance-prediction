@@ -1,4 +1,4 @@
-# 🌱 ESG Score Prediction Project – Group 43
+# 🌱 ESG Score Prediction Project
 
 This project aims to **predict ESG (Environmental, Social, Governance) grades of companies** based on ESG scores from 2020 to 2023. We collected publicly available ESG tables through web scraping, performed thorough preprocessing and visualization, and built machine learning models to classify ESG performance levels.
 
